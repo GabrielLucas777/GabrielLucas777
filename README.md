@@ -58,10 +58,6 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ---
 
-###  Projeto em Destaque
-Shadow IT Hunter
-Automação de ponta a ponta que realiza o monitoramento de infraestrutura (RPA) e consolida relatórios de vulnerabilidades utilizando Pandas para garantir a integridade das informações.
----
 
   <h3>  Contato </h3>
   <a href="https://www.linkedin.com/in/gabrielsantos088/" target="_blank">

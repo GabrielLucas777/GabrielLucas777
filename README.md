@@ -27,7 +27,7 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&locale=pt-br" />
   
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLucas777&layout=compact&theme=tokyonight&locale=pt-br" />
+
 </p>
 
 </p>

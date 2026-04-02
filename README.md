@@ -24,10 +24,12 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ### 📊 Meu Progresso no GitHub
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLucas777&layout=compact&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
 </p>
-</p>
+
 
 ---
 

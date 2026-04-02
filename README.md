@@ -22,9 +22,12 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
   <img src="https://img.shields.io/badge/Openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### 📊 Meu Progresso no GitHub
+
+  ### 📊 Meu Progresso no GitHub
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true&locale=pt-br" 
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&locale=pt-br" />
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielLucas777&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
 </p>

@@ -53,8 +53,6 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ---
 
-### 📫 Contato
-<div align="center">
   <h3> 📫 Contato </h3>
   <a href="https://www.linkedin.com/in/gabrielsantos088/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" title="LinkedIn" />

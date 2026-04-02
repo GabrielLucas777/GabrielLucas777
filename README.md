@@ -1,5 +1,5 @@
 <div align="center">
-/>
+
 # Olá, eu sou o Gabriel! 
 ### Desenvolvedor Python | Automação & RPA
 
@@ -13,10 +13,11 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 ---
 
 
+
 ### 🛠️ Linguagens e Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,postgres,streamlit&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,playwright,js,html,css,git,github,postgres,streamlit&theme=dark" />
   </a>
 </p>
 

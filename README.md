@@ -15,26 +15,24 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 
 <div align="center">
-  <h3> 🤖 Linguagens e Tecnologias </h3>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" title="Python" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="50" alt="Playwright" title="Playwright" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" alt="Streamlit" title="Streamlit" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL" />
+  <h4>  Core: Automação & RPA </h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="50" title="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="PyAutoGUI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" title="Streamlit" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas" />
+  <br>
 
+  <h4>  Suporte: Manipulação & Análise de Dados </h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
 </div>
 
 
-  ### 📊 Meu Progresso no GitHub
+  ###  Meu Progresso no GitHub
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&locale=pt-br" />
   
@@ -46,14 +44,12 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ---
 
-### 🚀 Projeto em Destaque
-**🔍 Shadow IT Hunter**
-*Automação modular para monitoramento de infraestrutura e auditoria de segurança.*
-> **Techs:** Python, Playwright, Requests.
-
+###  Projeto em Destaque
+Shadow IT Hunter
+Automação de ponta a ponta que realiza o monitoramento de infraestrutura (RPA) e consolida relatórios de vulnerabilidades utilizando Pandas para garantir a integridade das informações.
 ---
 
-  <h3> 📫 Contato </h3>
+  <h3>  Contato </h3>
   <a href="https://www.linkedin.com/in/gabrielsantos088/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" title="LinkedIn" />
   </a>

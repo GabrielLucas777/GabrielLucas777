@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Gabriel! 👋
+# Olá, eu sou o Gabriel! 
 ### Desenvolvedor Python | Automação & RPA
 
 <img src="https://img.shields.io/badge/Status-Desenvolvendo_Automações-6366F1?style=for-the-badge&logoColor=white" />
@@ -24,20 +24,22 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ### 📊 Meu Progresso no GitHub
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLucas777&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLucas777&layout=compact&theme=tokyonight&title_color=6366F1&text_color=E4E4E7&bg_color=18181B&hide_border=true"/>
 </p>
 
 ---
 
 ### 🚀 Projeto em Destaque
-**🔍 Shadow IT Hunter** *Automação modular para monitoramento de infraestrutura e auditoria de segurança.* > **Techs:** Python, Playwright, Requests.
+**🔍 Shadow IT Hunter**
+*Automação modular para monitoramento de infraestrutura e auditoria de segurança.*
+> **Techs:** Python, Playwright, Requests.
 
 ---
 
 ### 📫 Contato
 <p align="center">
-<a href="https://www.linkedin.com/in/gabrielsantos088/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabrielsantos088/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 </div>

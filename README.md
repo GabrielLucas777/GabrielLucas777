@@ -12,14 +12,12 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+
+### 🛠️ Linguagens e Tecnologias
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,postgres,streamlit&theme=dark" />
+  </a>
 </p>
 
 

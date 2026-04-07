@@ -23,7 +23,7 @@ Atualmente trabalhando no desenvolvimento de robôs para automação de processo
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium" title="Selenium" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="PyAutoGUI" title="PyAutoGUI" />
+  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript" />
   
